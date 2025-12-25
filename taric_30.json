@@ -1,0 +1,405 @@
+{
+  "code": "30",
+  "description": "FARMACEUTISKA PRODUKTER",
+  "children": [
+    {
+      "code": "3001",
+      "description": "Körtlar och andra organ för organoterapeutiskt bruk, torkade, även pulveriserade; extrakter av körtlar eller andra organ eller av deras sekret, för organoterapeutiskt bruk; heparin och salter av heparin; andra ämnen och material från människor eller djur, beredda för terapeutiskt eller profylaktiskt bruk, inte nämnda eller inbegripna någon annanstans",
+      "children": [
+        {
+          "code": "300120",
+          "description": "Extrakter av körtlar eller andra organ eller av deras sekret",
+          "children": [
+            {
+              "code": "30012010",
+              "description": "Från människor",
+              "children": [
+                {
+                  "code": "3001201000",
+                  "description": "Från människor",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "30012090",
+              "description": "Andra",
+              "children": [
+                {
+                  "code": "3001209000",
+                  "description": "Andra",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "300190",
+          "description": "Andra slag",
+          "children": [
+            {
+              "code": "30019020",
+              "description": "Heparin och salter av heparin",
+              "children": [
+                {
+                  "code": "3001902000",
+                  "description": "Heparin och salter av heparin",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "30019098",
+              "description": "Andra",
+              "children": [
+                {
+                  "code": "3001909800",
+                  "description": "Andra",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3002",
+      "description": "Människoblod; djurblod berett för terapeutiskt, profylaktiskt eller diagnostiskt bruk; immunsera, andra fraktioner av blod och immunologiska produkter, även modifierade eller erhållna genom biotekniska processer; vacciner, toxiner, kulturer av mikroorganismer (med undantag av jäst) och liknande produkter; cellodlingar, även modifierade",
+      "children": [
+        {
+          "code": "3002120000",
+          "description": "Immunsera och andra fraktioner av blod",
+          "children": []
+        },
+        {
+          "code": "3002130000",
+          "description": "Immunologiska produkter, oblandade, som inte föreligger i avdelade doser eller i former eller förpackningar för försäljning i detaljhandeln",
+          "children": []
+        },
+        {
+          "code": "3002140000",
+          "description": "Immunologiska produkter, blandade, som inte föreligger i avdelade doser eller i former eller förpackningar för försäljning i detaljhandeln",
+          "children": []
+        },
+        {
+          "code": "3002150000",
+          "description": "Immunologiska produkter som föreligger i avdelade doser eller i former eller förpackningar för försäljning i detaljhandeln",
+          "children": []
+        },
+        {
+          "code": "300241",
+          "description": "Vacciner för människor",
+          "children": [
+            {
+              "code": "30024110",
+              "description": "Vacciner mot SARS-relaterade coronavirus (SARS-CoV-arter)",
+              "children": [
+                {
+                  "code": "3002411000",
+                  "description": "Vacciner mot SARS-relaterade coronavirus (SARS-CoV-arter)",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "30024190",
+              "description": "Andra",
+              "children": [
+                {
+                  "code": "3002419000",
+                  "description": "Andra",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3002420000",
+          "description": "Vacciner för djur",
+          "children": []
+        },
+        {
+          "code": "300249",
+          "description": "Andra",
+          "children": [
+            {
+              "code": "3002490010",
+              "description": "Kulturer av mikroorganismer – patogener och patogenkulturer",
+              "children": []
+            },
+            {
+              "code": "3002490020",
+              "description": "Kulturer av mikroorganismer – andra",
+              "children": []
+            },
+            {
+              "code": "3002490081",
+              "description": "Andra – patogener och patogenkulturer",
+              "children": []
+            },
+            {
+              "code": "3002490089",
+              "description": "Andra – andra",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3002510000",
+          "description": "Produkter för cellterapi",
+          "children": []
+        },
+        {
+          "code": "3002590000",
+          "description": "Andra",
+          "children": []
+        },
+        {
+          "code": "300290",
+          "description": "Andra slag",
+          "children": [
+            {
+              "code": "3002901000",
+              "description": "Människoblod",
+              "children": []
+            },
+            {
+              "code": "3002903000",
+              "description": "Djurblod berett för terapeutiskt, profylaktiskt eller diagnostiskt bruk",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3003",
+      "description": "Medikamenter (med undantag av varor enligt nr 3002, 3005 eller 3006) bestående av två eller flera beståndsdelar som har blandats med varandra för terapeutiskt eller profylaktiskt bruk men som inte föreligger i avdelade doser eller i former eller förpackningar för försäljning i detaljhandeln",
+      "children": [
+        {
+          "code": "3003100000",
+          "description": "Innehållande penicilliner, penicillinderivat med penicillinsyrastruktur, streptomyciner eller streptomycinderivat",
+          "children": []
+        },
+        {
+          "code": "3003200000",
+          "description": "Andra, innehållande antibiotika",
+          "children": []
+        },
+        {
+          "code": "3003310000",
+          "description": "Andra, innehållande hormoner eller andra produkter enligt nr 2937 – innehållande insulin",
+          "children": []
+        },
+        {
+          "code": "3003390000",
+          "description": "Andra, innehållande hormoner eller andra produkter enligt nr 2937 – andra",
+          "children": []
+        },
+        {
+          "code": "3003410000",
+          "description": "Andra, innehållande alkaloider eller derivat av alkaloider – innehållande efedrin eller dess salter",
+          "children": []
+        },
+        {
+          "code": "3003420000",
+          "description": "Andra, innehållande alkaloider eller derivat av alkaloider – innehållande pseudoefedrin (INN) eller dess salter",
+          "children": []
+        },
+        {
+          "code": "3003430000",
+          "description": "Andra, innehållande alkaloider eller derivat av alkaloider – innehållande norefedrin eller dess salter",
+          "children": []
+        },
+        {
+          "code": "3003490000",
+          "description": "Andra, innehållande alkaloider eller derivat av alkaloider – andra",
+          "children": []
+        },
+        {
+          "code": "3003600000",
+          "description": "Andra, innehållande aktiva substanser mot malaria som beskrivs i anmärkning 2 till undernummer till detta kapitel",
+          "children": []
+        },
+        {
+          "code": "3003900000",
+          "description": "Andra slag",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "3004",
+      "description": "Medikamenter (med undantag av varor enligt nr 3002, 3005 eller 3006) bestående av blandade eller oblandade produkter för terapeutiskt eller profylaktiskt bruk, föreliggande i avdelade doser (inbegripet doser i form av system för transdermal administration) eller i former eller förpackningar för försäljning i detaljhandeln",
+      "children": [
+        {
+          "code": "3004100000",
+          "description": "Innehållande penicilliner, penicillinderivat med penicillinsyrastruktur, streptomyciner eller streptomycinderivat",
+          "children": []
+        },
+        {
+          "code": "3004200000",
+          "description": "Andra, innehållande antibiotika",
+          "children": []
+        },
+        {
+          "code": "3004310000",
+          "description": "Andra, innehållande hormoner eller andra produkter enligt nr 2937 – innehållande insulin",
+          "children": []
+        },
+        {
+          "code": "3004320000",
+          "description": "Andra, innehållande hormoner eller andra produkter enligt nr 2937 – innehållande binjurebarkhormoner eller derivat eller strukturella analoger av dessa ämnen",
+          "children": []
+        },
+        {
+          "code": "3004390000",
+          "description": "Andra, innehållande hormoner eller andra produkter enligt nr 2937 – andra",
+          "children": []
+        },
+        {
+          "code": "3004410000",
+          "description": "Andra, innehållande alkaloider eller derivat av alkaloider – innehållande efedrin eller dess salter",
+          "children": []
+        },
+        {
+          "code": "3004420000",
+          "description": "Andra, innehållande alkaloider eller derivat av alkaloider – innehållande pseudoefedrin (INN) eller dess salter",
+          "children": []
+        },
+        {
+          "code": "3004430000",
+          "description": "Andra, innehållande alkaloider eller derivat av alkaloider – innehållande norefedrin eller dess salter",
+          "children": []
+        },
+        {
+          "code": "3004490000",
+          "description": "Andra, innehållande alkaloider eller derivat av alkaloider – andra",
+          "children": []
+        },
+        {
+          "code": "3004500000",
+          "description": "Andra, innehållande vitaminer eller andra produkter enligt nr 2936",
+          "children": []
+        },
+        {
+          "code": "3004600000",
+          "description": "Andra, innehållande alkaloider eller derivat av alkaloider",
+          "children": []
+        },
+        {
+          "code": "3004900000",
+          "description": "Andra slag",
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "3005",
+      "description": "Vadd, förbandsgas, bindor och liknande artiklar (t.ex. färdiga förband, häftplåster och kataplasmer), impregnerade eller överdragna med farmaceutiska ämnen eller föreliggande i former eller förpackningar för försäljning i detaljhandeln för medicinskt, kirurgiskt, dentalt eller veterinärt ändamål",
+      "children": [
+        {
+          "code": "3005100000",
+          "description": "Häftplåster och andra artiklar belagda med ett häftande skikt",
+          "children": []
+        },
+        {
+          "code": "300590",
+          "description": "Andra slag",
+          "children": [
+            {
+              "code": "3005901000",
+              "description": "Vadd samt varor av vadd",
+              "children": []
+            },
+            {
+              "code": "3005903100",
+              "description": "Andra – av textilmaterial – förbandsgas och artiklar av förbandsgas",
+              "children": []
+            },
+            {
+              "code": "3005905000",
+              "description": "Andra – av textilmaterial – andra",
+              "children": []
+            },
+            {
+              "code": "3005909900",
+              "description": "Andra – andra",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3006",
+      "description": "Farmaceutiska produkter enligt anmärkning 4 till detta kapitel",
+      "children": [
+        {
+          "code": "300610",
+          "description": "Steril katgut, liknande sterila suturmaterial för kirurgiskt bruk (inbegripet sterila resorberbara trådar för kirurgiskt eller dentalt bruk) samt sterilt lim för användning inom kirurgin för tillslutning av sår; steril laminaria och sterila laminariastift; sterila resorberbara blodstillande medel för kirurgiskt eller dentalt bruk; sterila adhesionsbarriärer för kirurgiskt eller dentalt bruk, även resorberbara",
+          "children": [
+            {
+              "code": "3006101000",
+              "description": "Steril katgut",
+              "children": []
+            },
+            {
+              "code": "3006103000",
+              "description": "Sterila adhesionsbarriärer för kirurgiskt eller dentalt bruk, även resorberbara",
+              "children": []
+            },
+            {
+              "code": "3006109000",
+              "description": "Andra",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3006300000",
+          "description": "Strålningsabsorberande röntgenkontrastmedel; diagnostiska reagens för invärtes eller utvärtes bruk",
+          "children": []
+        },
+        {
+          "code": "3006400000",
+          "description": "Tandcement och andra tandfyllningsmedel; bencement",
+          "children": []
+        },
+        {
+          "code": "3006500000",
+          "description": "Lådor, askar, etui o.d. med utrustning för första förband",
+          "children": []
+        },
+        {
+          "code": "3006600000",
+          "description": "Kemiska preventivmedel baserade på hormoner, på andra varor enligt nr 2937 eller på spermiedödande ämnen",
+          "children": []
+        },
+        {
+          "code": "3006700000",
+          "description": "Gelberedningar avsedda för användning i human- eller veterinärmedicin som smörjmedel för kroppsdelar vid kirurgiska ingrepp eller kroppsundersökningar eller som kontaktmedel mellan kroppen och medicinska instrument",
+          "children": []
+        },
+        {
+          "code": "3006910000",
+          "description": "Andra – artiklar, igenkännliga för att användas för stomier",
+          "children": []
+        },
+        {
+          "code": "3006920000",
+          "description": "Andra – läkemedelsavfall",
+          "children": []
+        },
+        {
+          "code": "3006930000",
+          "description": "Andra – placebo och testsatser för blindade (eller dubbelblindade) godkända kliniska prövningar, i avdelade doser",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
